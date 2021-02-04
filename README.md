@@ -20,5 +20,5 @@ Williams
 Hanks  
 Messi  
 ...  
-Each person has a separate folder containing their face photo.    
+Each person has a separate folder containing their face photo: each person has at least two pictures.  
 **You can use MTCNN to crop faces.**
